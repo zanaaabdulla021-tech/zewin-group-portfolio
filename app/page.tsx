@@ -62,7 +62,7 @@ export default function Home() {
           <span className="font-mono font-bold gradient-text">Zewin Group</span>
           <span>Built with Next.js · Tailwind CSS · Framer Motion</span>
           <div className="flex items-center gap-4">
-            <span>© {new Date().getFullYear()} KurdCod</span>
+            <span>© {new Date().getFullYear()} Zewin</span>
             <a href="/admin" style={{ fontSize: 12, opacity: .4, color: "inherit", textDecoration: "none" }} className="hover:opacity-70 transition-opacity">
               Admin
             </a>

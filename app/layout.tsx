@@ -11,13 +11,13 @@ export const metadata: Metadata = {
   title: "Zewin Group — Full-Stack Development & Tech Solutions",
   description: "Building modern web applications, pharmacy management systems, and AI-powered tools in the Kurdistan Region.",
   keywords: ["Zewin", "full-stack developer", "React", "Next.js", "Kurdish developer"],
-  authors: [{ name: "KurdCod" }],
+  authors: [{ name: "ziwen" }],
   manifest: "/manifest.json",
   openGraph: {
     type: "website",
     title: "Zewin Group — Full-Stack Development & Tech Solutions",
     description: "Building modern web applications and AI-powered tools.",
-    siteName: "KurdCod",
+    siteName: "ziwen",
   },
   twitter: {
     card: "summary_large_image",
