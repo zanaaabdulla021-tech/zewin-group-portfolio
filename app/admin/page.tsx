@@ -33,7 +33,7 @@ const INITIAL_USERS = [
   {
     id: 1,
     username: "admin",
-    password: "admin123",
+    password: "Awin1998h",
     role: "administrator",
     name: "Administrator",
     avatar: "👑",
@@ -41,7 +41,7 @@ const INITIAL_USERS = [
   {
     id: 2,
     username: "editor",
-    password: "editor123",
+    password: "Awin1998h",
     role: "editor",
     name: "Editor",
     avatar: "✏️",
@@ -49,7 +49,7 @@ const INITIAL_USERS = [
   {
     id: 3,
     username: "viewer",
-    password: "viewer123",
+    password: "Awin1998h",
     role: "viewer",
     name: "Viewer",
     avatar: "👁️",
@@ -57,7 +57,7 @@ const INITIAL_USERS = [
 ];
 // ── Data ───────────────────────────────────────────────────────────────────────
 const INITIAL_DATA = {
-  brand:   { name: "KurdCod", tagline: "Full-Stack Developer", logo: null, accentColor: "#4f8ef7", secondColor: "#a78bfa" },
+  brand:   { name: "Zewin", tagline: "Full-Stack Developer", logo: "/logo.jfif", },
   profile: { fullName: "Zana", bio: "Full-stack developer from Kurdistan Region.", email: "zanaaabdulla021@gmail.com", phone: "", location: "Sulaymaniyah, Kurdistan", available: true, avatar: null },
   seo:     { title: "Zewin Group — Full-Stack Development & Tech Solutions", description: "Building modern web applications and AI-powered tools.", keywords: "KurdCod, React, Next.js" },
   social:  { github: "https://github.com/zanaaabdulla021-tech", linkedin: "", twitter: "", email: "zanaaabdulla021@gmail.com", website: "https://zewin.dev" },
