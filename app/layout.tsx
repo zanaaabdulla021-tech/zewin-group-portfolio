@@ -10,7 +10,7 @@ import "./globals.css";
 export const metadata: Metadata = {
   title: "Zewin Group — Full-Stack Development & Tech Solutions",
   description: "Building modern web applications, pharmacy management systems, and AI-powered tools in the Kurdistan Region.",
-  keywords: ["KurdCod", "full-stack developer", "React", "Next.js", "Kurdish developer"],
+  keywords: ["Zewin", "full-stack developer", "React", "Next.js", "Kurdish developer"],
   authors: [{ name: "KurdCod" }],
   manifest: "/manifest.json",
   openGraph: {
