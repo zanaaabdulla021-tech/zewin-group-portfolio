@@ -29,7 +29,32 @@ const ROLE_CONFIG = {
 };
 
 // ── Users ──────────────────────────────────────────────────────────────────────
-
+const INITIAL_USERS = [
+  {
+    id: 1,
+    username: "admin",
+    password: "admin123",
+    role: "administrator",
+    name: "Administrator",
+    avatar: "👑",
+  },
+  {
+    id: 2,
+    username: "editor",
+    password: "editor123",
+    role: "editor",
+    name: "Editor",
+    avatar: "✏️",
+  },
+  {
+    id: 3,
+    username: "viewer",
+    password: "viewer123",
+    role: "viewer",
+    name: "Viewer",
+    avatar: "👁️",
+  },
+];
 // ── Data ───────────────────────────────────────────────────────────────────────
 const INITIAL_DATA = {
   brand:   { name: "KurdCod", tagline: "Full-Stack Developer", logo: null, accentColor: "#4f8ef7", secondColor: "#a78bfa" },
