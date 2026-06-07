@@ -89,7 +89,7 @@ export default function LoginClient() {
           </button>
 
           <p style={{ textAlign:"center", marginTop:16, fontSize:11, color:"#6b7685", fontFamily:"'DM Mono',monospace" }}>
-            Default: <span style={{ color:"#4f8ef7" }}>admin123</span>
+            Default: <span style={{ color:"#4f8ef7" }}></span>
           </p>
         </div>
 
